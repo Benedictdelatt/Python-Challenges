@@ -1,19 +1,41 @@
-# Python-Challenges
-“A collection of Python challenges and solutions from my learning journey at(18yrs).”
-A collection of beginner-friendly Python programs I built while learning core programming concepts.
+🐍 Python Challenges — My Learning Journey
 
-## Topics Covered
-- For loops
-- Conditionals
-- Lists and user input
-- Simple calculations
+About:
+Hi, I'm Benedict Dela, 18 years old and self-taught, currently learning Python to strengthen my programming foundation through daily challenges.
 
-## Sample Projects
-- Sum of Numbers
-- Average Calculator
-- Even and Odd Counter
-- Multiplication Table
-- Largest and Smallest Finder
+Learning areas:
 
-## About Me
-I'm Benedict Dela, I am 18 and I am currently learning Python and building my programming portfolio.
+for/while loops
+
+conditional statements
+
+lists
+
+basic problem-solving
+
+
+
+
+Timeline:
+
+Start Date: October 2025
+
+Current Stage: For Loops
+
+Next Goal: If statements and conditional logic
+
+End Date: to be updated
+
+
+
+Challenge Log:
+
+Sum of 5 numbers using a for loop — Oct 28, 2025
+
+Counting even and odd numbers — Oct 29, 2025
+
+Multiplication table generator — Oct 29, 2025
+
+Finding the average of numbers in a list — Oct 30, 2025
+
+Finding the largest and smallest number in a list — Oct 30, 2025
